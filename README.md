@@ -1,1 +1,1 @@
-# Adapatability
+# Adaptability
