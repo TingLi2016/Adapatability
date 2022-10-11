@@ -2,8 +2,7 @@
 #$ -S /bin/bash
 #$ -N dnn
 #$ -cwd
-#$ -o /account/tli/DeepDILIsupport/script/github3/output/logs
-#$ -e /account/tli/DeepDILIsupport/script/github3/output/logs 
+
 
 echo "[start]"
 echo `date`
